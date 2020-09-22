@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 const App = () => {
-  return <div>Sup Bitches?</div>;
+  return <div>Hi There!</div>;
 };
 
 ReactDOM.render(<App />, document.querySelector('#root'));
